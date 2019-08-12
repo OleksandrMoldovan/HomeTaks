@@ -8,6 +8,7 @@
 ##a = input("Enter any value\n")
 ##sq = int(a)*int(a)
 ##print(f"Square of {a} is:\n",sq)
+##cub = (sq*int(a))
 ##print(f"Cub of {a} is:\n",cub)
 
 """The Third Programm"""
