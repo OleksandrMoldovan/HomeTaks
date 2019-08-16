@@ -40,9 +40,24 @@
 ##print("Second buy is:", secondBuy)
 
 """The seventh programm"""
-"""
 
-Пользователь вводит цены 1 кг конфет и 1 кг печенья. Найдите стоимость: а) одной покупки из 300 г конфет и 400 г печенья; б) трех покупок, каждая из 2 кг печенья и 1 кг 800 г конфет.
-Пользователь вводит время в минутах и расстояние в километрах. Найдите скорость в м/c.
-Даны катеты прямоугольного треугольника. Найдите площадь, периметр и гипотенузу треугольника.
-Дано значение температуры в градусах Цельсия. Вывести температуру в градусах Фаренгейта."""
+##time = float(input("Enter time in minutes:"))
+##path = float(input("Enter distance in km:"))
+##speed = round((path*1000)/(time*60),3)
+##print(f"The speed is:{speed} m per second")
+
+"""The eights programm"""
+##a,b = int(input('Side 1:\n')),int(input('Side 2:\n'))
+##c_square = a**2+b**2
+##c = c_square**0.5
+##print(f"The third side is {c} sm")
+##P = a+b+c
+##print(f"The perimeter is {P} sm")
+##S = (a*b)/2
+##print(f"The square is {S} sm**2")
+
+##"""The nineth programm"""
+##temperatureCelsium = float(input("Enter current temperature in Celsium"))
+##convertToFarengheit = temperatureCelsium *1.800+32
+##print(f'In celsium {temperatureCelsium} is equal to {convertToFarengheit} in farengheit')
+
